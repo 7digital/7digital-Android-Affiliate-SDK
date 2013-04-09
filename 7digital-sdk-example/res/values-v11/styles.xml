@@ -1,0 +1,23 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:buttonStyle">@style/Widget.Button</item>
+        <item name="android:actionBarStyle">@style/Widget.ActionBar</item>
+    </style>
+
+    <style name="Widget.ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/actionbar_background_underlined</item>
+		<item name="android:titleTextStyle">@style/Widget.ActionBarText</item>
+	</style>
+
+	<style name="Widget.ActionBarText" parent="@android:style/TextAppearance.Medium">
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+        
+    <style name="Widget.Button" parent="@android:style/Widget.Holo.Light.Button">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+    
+</resources>

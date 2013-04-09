@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:buttonStyle">@style/Widget.Button</item>
+        <item name="android:actionBarStyle">@style/Widget.ActionBar</item>
+    </style>
+
+</resources>

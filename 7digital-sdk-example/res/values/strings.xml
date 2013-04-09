@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Howdy Partner!</string>
+    <string name="app_name">7digital Partner Tool</string>
+    <string name="search_7digital">Search 7digital</string>
+    <string name="search">Search</string>
+    <string name="launch_shop">Show shop</string>
+    <string name="launch_music">Show Music</string>
+    <string name="launch_downloads">Downloads</string>
+    <string name="release">View release</string>
+    <string name="track">View track</string>
+    <string name="artist">View artist</string>
+    <string name="affiliate_id">Affiliate ID</string>
+    <string name="the_7digital_application_is_not_installed_please_install_it_from_google_play_">The 7digital application is not installed.  Please install it from Google Play.</string>
+    <string name="google_play_not_found_please_install_the_7digital_application_manually_">Google Play not found.  Please install the 7digital application manually.</string>
+    <string name="play_track">Play Track</string>
+    <string name="play_release">Play Release</string>
+    <string name="_7digital_release_id">7digital release ID</string>
+    <string name="_7digital_track_id">7digital track ID (requires release ID)</string>
+    <string name="_7digital_artist_id_n_name">7digital artist ID &amp; name</string>
+    
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    
+    <string name="error">Oops!</string>
+</resources>
